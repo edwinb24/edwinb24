@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100">
+<path style="fill:#010101; stroke:none;" d="M0 0L0 100L100 100L100 0L0 0z"/>
+<path style="fill:#555555; stroke:none;" d="M40 6L41 7L40 6z"/>
+<path style="fill:#333333; stroke:none;" d="M44 94L44 61L33 61L33 50L44 50C44 30.8127 50.183 24.9604 69 25L69 34C57.473 34.0076 55.2283 38.9368 55 50L69 50L67 61C63.9969 61 58.1466 59.9281 56.0278 62.6034C53.8249 65.3847 55 71.6719 55 75C55 84.9139 52.3728 96.8664 66 91.5363C97.9744 79.0298 103.794 35.5095 77 14.5185C67.4362 7.0261 55.8276 5.22253 44 6.09028C-7.05575 9.83607 -4.80701 87.4224 44 94z"/>
+<path style="fill:#555555; stroke:none;" d="M59 6L60 7L59 6z"/>
+<path style="fill:#404040; stroke:none;" d="M68 9L69 10L68 9z"/>
+<path style="fill:#292929; stroke:none;" d="M29 10L30 11L29 10M24 13L25 14L24 13M75 13L76 14L75 13z"/>
+<path style="fill:#555555; stroke:none;" d="M19 17L20 18L19 17z"/>
+<path style="fill:#292929; stroke:none;" d="M18 18L19 19L18 18M81 18L82 19L81 18z"/>
+<path style="fill:#555555; stroke:none;" d="M82 19L83 20L82 19z"/>
+<path style="fill:#292929; stroke:none;" d="M13 24L14 25L13 24M60 24L61 25L60 24M86 24L87 25L86 24M53 25L54 26L53 25z"/>
+<path style="fill:#404040; stroke:none;" d="M48 28L49 29L48 28M10 29L11 30L10 29z"/>
+<path style="fill:#292929; stroke:none;" d="M89 29L90 30L89 29z"/>
+<path style="fill:#404040; stroke:none;" d="M90 31L91 32L90 31z"/>
+<path style="fill:#555555; stroke:none;" d="M6 40L7 41L6 40z"/>
+<path style="fill:#404040; stroke:none;" d="M55 43L56 44L55 43z"/>
+<path style="fill:#292929; stroke:none;" d="M33 50L33 51L44 51L33 50M56 50L56 51L69 51L56 50M67 57L68 58L67 57z"/>
+<path style="fill:#404040; stroke:none;" d="M55 61L56 62L55 61z"/>
+<path style="fill:#555555; stroke:none;" d="M9 68L10 69L9 68M90 68L91 69L90 68z"/>
+<path style="fill:#292929; stroke:none;" d="M89 70L90 71L89 70z"/>
+<path style="fill:#404040; stroke:none;" d="M13 75L14 76L13 75M86 75L87 76L86 75z"/>
+<path style="fill:#555555; stroke:none;" d="M18 81L19 82L18 81M24 86L25 87L24 86M75 86L76 87L75 86z"/>
+<path style="fill:#404040; stroke:none;" d="M70 89L71 90L70 89z"/>
+<path style="fill:#292929; stroke:none;" d="M55 93L56 94L55 93z"/>
+</svg>

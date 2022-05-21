@@ -4,26 +4,26 @@
 
 ### Connect with me:
 
-[[https://ik.imagekit.io/edwinb24/New_Social_Media_icons/website_light_theme.png]](https://edwinbroce.com/)
-[[https://ik.imagekit.io/edwinb24/New_Social_Media_icons/website_dark_theme.png]](https://edwinbroce.com/)
+[![website](./img/website_light_theme.svg)](https://edwinbroce.com/)
+[![website](./img/website_dark_theme.svg)](https://edwinbroce.com/)
 &nbsp;&nbsp;
-[[imagecdn](./youtube_light_theme.png)](https://www.youtube.com/channel/UC316MzN9QyFvGJisgyjQWzw#gh-light-mode-only)
-[[imagecdn](./youtube_light_theme.png)](https://www.youtube.com/channel/UC316MzN9QyFvGJisgyjQWzw#gh-dark-mode-only)
+[![website](./img/youtube_light_theme.svg)](https://www.youtube.com/channel/UC316MzN9QyFvGJisgyjQWzw#gh-light-mode-only)
+[![website](./img/youtube_dark_theme.svg)](https://www.youtube.com/channel/UC316MzN9QyFvGJisgyjQWzw#gh-dark-mode-only)
 &nbsp;&nbsp;
-[[imagecdn](./twitter_light_theme.png)](https://twitter.com/edwin_b24#gh-light-mode-only)
-[[imagecdn](./twitter_light_theme.png)](https://twitter.com/edwin_b24#gh-dark-mode-only)
+[![website](./img/twitter_light_theme.svg)](https://twitter.com/edwin_b24#gh-light-mode-only)
+[![website](./img/twitter_dark_theme.svg)](https://twitter.com/edwin_b24#gh-dark-mode-only)
 &nbsp;&nbsp;
-[[imagecdn](./linkedin_light_theme.png)](https://www.linkedin.com/in/edwin-broce#gh-light-mode-only)
-[[imagecdn](./linkedin_light_theme.png)](https://www.linkedin.com/in/edwin-broce#gh-dark-mode-only)
+[![website](./img/website_light_theme.svg)](https://www.linkedin.com/in/edwin-broce#gh-light-mode-only)
+[![website](./img/website_dark_theme.svg)](https://www.linkedin.com/in/edwin-broce#gh-dark-mode-only)
 &nbsp;&nbsp;
-[[imagecdn](./instagram_light_theme.png)](https://www.instagram.com/edwin_b24#gh-light-mode-only)
-[[imagecdn](./instagram_light_theme.png)](https://www.instagram.com/edwin_b24#gh-dark-mode-only)
+[![website](./img/instagram_light_theme.svg)](https://www.instagram.com/edwin_b24#gh-light-mode-only)
+[![website](./img/instagram_dark_theme.svg)](https://www.instagram.com/edwin_b24#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/facebook_light.svg)](https://www.facebook.com/edwin.b24#gh-light-mode-only)
-[![website](./img/facebook_light.svg)](https://www.facebook.com/edwin.b24#gh-light-mode-only)
+[![website](./img/facebook_light_theme.svg)](https://www.facebook.com/edwin.b24#gh-light-mode-only)
+[![website](./img/facebook_dark_theme.svg)](https://www.facebook.com/edwin.b24#gh-light-mode-only)
 &nbsp;&nbsp;
-[[imagecdn](./twitch_light_theme.png)](https://www.twitch.tv/edwin_b24#gh-light-mode-only)
-[[imagecdn](./twitch_dark_theme.png)](https://www.twitch.tv/edwin_b24#gh-dark-mode-only)
+[![website](./img/twitch_light_theme.svg)](https://www.twitch.tv/edwin_b24#gh-light-mode-only)
+[![website](./img/twitch_dark_theme.svg)](https://www.twitch.tv/edwin_b24#gh-dark-mode-only)
 
 ---
 
