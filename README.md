@@ -1,29 +1,31 @@
 ## Hi, I'm Edwin Broce. I'm a Web Developer from Panama 🏄‍♂️
 
-I had been develing software for the web for 8 years. When I’m not programming, I enjoy playing video games, D&D, doing improv, working out, and teaching my cat to do tricks 🐱‍🏍
+## I had been develing software for the web for 8 years. When I’m not programming, I enjoy playing video games, D&D, doing improv, working out, and teaching my cat to do tricks 🐱‍🏍
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://edwinbroce.com/)
-[![website](./img/globe-dark.svg)](https://edwinbroce.com/)
+[![imageCDN](./website_light_theme.png)](https://edwinbroce.com/)
+[![imageCDN](./website_light_theme.png)](https://edwinbroce.com/)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC316MzN9QyFvGJisgyjQWzw#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC316MzN9QyFvGJisgyjQWzw#gh-dark-mode-only)
+[![imageCDN](./youtube_light_theme.png)](https://www.youtube.com/channel/UC316MzN9QyFvGJisgyjQWzw#gh-light-mode-only)
+[![imageCDN](./youtube_light_theme.png)](https://www.youtube.com/channel/UC316MzN9QyFvGJisgyjQWzw#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/edwin_b24#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/edwin_b24#gh-dark-mode-only)
+[![imageCDN](./twitter_light_theme.png)](https://twitter.com/edwin_b24#gh-light-mode-only)
+[![imageCDN](./twitter_light_theme.png)](https://twitter.com/edwin_b24#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/edwin-broce#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/edwin-broce#gh-dark-mode-only)
+[![imageCDN](./linkedin_light_theme.png)](https://www.linkedin.com/in/edwin-broce#gh-light-mode-only)
+[![imageCDN](./linkedin_light_theme.png)](https://www.linkedin.com/in/edwin-broce#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/edwin_b24#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/edwin_b24#gh-dark-mode-only)
+[![imageCDN](./instagram_light_theme.png)](https://www.instagram.com/edwin_b24#gh-light-mode-only)
+[![imageCDN](./instagram_light_theme.png)](https://www.instagram.com/edwin_b24#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.facebook.com/edwin.b24#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.facebook.com/edwin.b24#gh-dark-mode-only)
+[![imageCDN](./facebook_light_theme.png)](https://www.facebook.com/edwin.b24#gh-light-mode-only)
+[![imageCDN](./facebook_light_theme.png)](https://www.facebook.com/edwin.b24#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.twitch.tv/edwin_b24#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.twitch.tv/edwin_b24#gh-dark-mode-only)
+[![imageCDN](./twitch_light_theme.png)](https://www.twitch.tv/edwin_b24#gh-light-mode-only)
+[![imageCDN](./twitch_dark_theme.png)](https://www.twitch.tv/edwin_b24#gh-dark-mode-only)
+
+---
 
 ### Languages and Tools:
 
@@ -43,4 +45,6 @@ I had been develing software for the web for 8 years. When I’m not programming
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10p;"/>
 <img align="left" alt="Terminal" width="26px" src="https://ik.imagekit.io/edwinb24/Others/285695_terminal_icon_0CbjEGtEZ.svg" style="padding-right:10px;"/>
-<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" style="padding-right:10px;"/>
+<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;"/>
+
+[imagecdn]: https://ik.imagekit.io/edwinb24/New_Social_Media_icons/
