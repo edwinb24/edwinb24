@@ -1,6 +1,5 @@
 ## Hi, I'm Edwin Broce. I'm a Web Developer from Panama 🏄‍♂️
-
-## I had been develing software for the web for 8 years. When I’m not programming, I enjoy playing video games, D&D, doing improv, working out, and teaching my cat to do tricks 🐱‍🏍
+I had been develing software for the web for 8 years. When I’m not programming, I enjoy playing video games, D&D, doing improv, working out, and teaching my cat to do tricks 🐱‍🏍
 
 ### Connect with me:
 
@@ -46,5 +45,3 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10p;"/>
 <img align="left" alt="Terminal" width="26px" src="https://ik.imagekit.io/edwinb24/Others/285695_terminal_icon_0CbjEGtEZ.svg" style="padding-right:10px;"/>
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;"/>
-
-[imagecdn]: https://ik.imagekit.io/edwinb24/New_Social_Media_icons/
