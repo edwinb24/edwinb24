@@ -2,20 +2,20 @@
 I had been develing software for the web for 8 years. When I’m not programming, I enjoy playing video games, D&D, doing improv, working out, and teaching my cat to do tricks 🐱‍🏍
 
 ### Connect with me:
-[![Go to my website](/img/website_light_theme.png#gh-light-mode-only)](https://edwinbroce.com/)
-[![Go to my website](/img/website_dark_theme.png#gh-dark-mode-only)](https://edwinbroce.com/)
-[![Go to my Youtube](/img/youtube_light_theme.png#gh-light-mode-only)](https://www.youtube.com/channel/UC316MzN9QyFvGJisgyjQWzw)
-[![Go to my Youtube](/img/youtube_dark_theme.png#gh-dark-mode-only)](https://www.youtube.com/channel/UC316MzN9QyFvGJisgyjQWzw)
-[![Go to my Twitter](/img/website_light_theme.png#gh-light-mode-only)](https://twitter.com/edwin_b24)
-[![Go to my Twitter](/img/website_dark_theme.png#gh-dark-mode-only)](https://twitter.com/edwin_b24)
-[![Go to my Twitch](/img/website_light_theme.png#gh-light-mode-only)](https://www.twitch.tv/edwin_b24)
-[![Go to my Twitch](/img/website_dark_theme.png#gh-dark-mode-only)](https://www.twitch.tv/edwin_b24)
-[![Go to my LinkedIn](/img/website_light_theme.png#gh-light-mode-only)](https://www.linkedin.com/in/edwin-broce)
-[![Go to my LinkedIn](/img/website_dark_theme.png#gh-dark-mode-only)](https://www.linkedin.com/in/edwin-broce)
-[![Go to my Facebook](/img/website_light_theme.png#gh-light-mode-only)](https://www.facebook.com/edwin.b24)
-[![Go to my Facebook](/img/website_dark_theme.png#gh-dark-mode-only)](https://www.facebook.com/edwin.b24)
-[![Go to my Instagram](/img/website_light_theme.png#gh-light-mode-only)](https://www.instagram.com/edwin_b24)
-[![Go to my Instagram](/img/website_dark_theme.png#gh-dark-mode-only)](https://www.instagram.com/edwin_b24)
+[![Go to my website](/img/website_light_theme.png)](https://edwinbroce.com#gh-light-mode-only)
+[![Go to my website](/img/website_dark_theme.png)](https://edwinbroce.com#gh-dark-mode-only)
+[![Go to my Youtube](/img/youtube_light_theme.png#gh-light-mode-only)](https://www.youtube.com/channel/UC316MzN9QyFvGJisgyjQWzw#gh-light-mode-only)
+[![Go to my Youtube](/img/youtube_dark_theme.png#gh-dark-mode-only)](https://www.youtube.com/channel/UC316MzN9QyFvGJisgyjQWzw#gh-dark-mode-only)
+[![Go to my Twitter](/img/twitter_light_theme.png#gh-light-mode-only)](https://twitter.com/edwin_b24#gh-light-mode-only)
+[![Go to my Twitter](/img/twitter_dark_theme.png#gh-dark-mode-only)](https://twitter.com/edwin_b24#gh-dark-mode-only)
+[![Go to my Twitch](/img/twitch_light_theme.png#gh-light-mode-only)](https://www.twitch.tv/edwin_b24#gh-light-mode-only)
+[![Go to my Twitch](/img/twitch_dark_theme.png#gh-dark-mode-only)](https://www.twitch.tv/edwin_b24#gh-dark-mode-only)
+[![Go to my LinkedIn](/img/linkedin_light_theme.png#gh-light-mode-only)](https://www.linkedin.com/in/edwin-broce#gh-light-mode-only)
+[![Go to my LinkedIn](/img/linkedin_dark_theme.png#gh-dark-mode-only)](https://www.linkedin.com/in/edwin-broce#gh-dark-mode-only)
+[![Go to my Facebook](/img/facebook_light_theme.png#gh-light-mode-only)](https://www.facebook.com/edwin.b24#gh-light-mode-only)
+[![Go to my Facebook](/img/facebook_dark_theme.png#gh-dark-mode-only)](https://www.facebook.com/edwin.b24#gh-dark-mode-only)
+[![Go to my Instagram](/img/instagram_light_theme.png#gh-light-mode-only)](https://www.instagram.com/edwin_b24#gh-light-mode-only)
+[![Go to my Instagram](/img/instagram_dark_theme.png#gh-dark-mode-only)](https://www.instagram.com/edwin_b24#gh-dark-mode-only)
 
 ---
 ### Languages and Tools:
