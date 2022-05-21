@@ -4,8 +4,8 @@
 
 ### Connect with me:
 
-[https://ik.imagekit.io/edwinb24/New_Social_Media_icons/website_light_theme.png](https://edwinbroce.com/)
-[https://ik.imagekit.io/edwinb24/New_Social_Media_icons/website_dark_theme.png](https://edwinbroce.com/)
+[[https://ik.imagekit.io/edwinb24/New_Social_Media_icons/website_light_theme.png]](https://edwinbroce.com/)
+[[https://ik.imagekit.io/edwinb24/New_Social_Media_icons/website_dark_theme.png]](https://edwinbroce.com/)
 &nbsp;&nbsp;
 [[imagecdn](./youtube_light_theme.png)](https://www.youtube.com/channel/UC316MzN9QyFvGJisgyjQWzw#gh-light-mode-only)
 [[imagecdn](./youtube_light_theme.png)](https://www.youtube.com/channel/UC316MzN9QyFvGJisgyjQWzw#gh-dark-mode-only)
