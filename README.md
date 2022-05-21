@@ -47,4 +47,4 @@
 <img align="left" alt="Terminal" width="26px" src="https://ik.imagekit.io/edwinb24/Others/285695_terminal_icon_0CbjEGtEZ.svg" style="padding-right:10px;"/>
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;"/>
 
-[imagecdn]:
+[imagecdn]: https://ik.imagekit.io/edwinb24/New_Social_Media_icons/
