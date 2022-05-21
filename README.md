@@ -19,8 +19,8 @@
 [[imagecdn](./instagram_light_theme.png)](https://www.instagram.com/edwin_b24#gh-light-mode-only)
 [[imagecdn](./instagram_light_theme.png)](https://www.instagram.com/edwin_b24#gh-dark-mode-only)
 &nbsp;&nbsp;
-[https://ik.imagekit.io/edwinb24/New_Social_Media_icons/facebook_light.svg](https://www.facebook.com/edwin.b24#gh-light-mode-only)
-[https://ik.imagekit.io/edwinb24/New_Social_Media_icons/facebook_light.svg)](https://www.facebook.com/edwin.b24#gh-dark-mode-only)
+[![website](./img/facebook_light.svg)](https://www.facebook.com/edwin.b24#gh-light-mode-only)
+[![website](./img/facebook_light.svg)](https://www.facebook.com/edwin.b24#gh-light-mode-only)
 &nbsp;&nbsp;
 [[imagecdn](./twitch_light_theme.png)](https://www.twitch.tv/edwin_b24#gh-light-mode-only)
 [[imagecdn](./twitch_dark_theme.png)](https://www.twitch.tv/edwin_b24#gh-dark-mode-only)
