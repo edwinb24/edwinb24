@@ -19,8 +19,8 @@
 [[imagecdn](./instagram_light_theme.png)](https://www.instagram.com/edwin_b24#gh-light-mode-only)
 [[imagecdn](./instagram_light_theme.png)](https://www.instagram.com/edwin_b24#gh-dark-mode-only)
 &nbsp;&nbsp;
-[[imagecdn](./facebook_light.svg)](https://www.facebook.com/edwin.b24#gh-light-mode-only)
-[[imagecdn](./facebook_light.svg)](https://www.facebook.com/edwin.b24#gh-dark-mode-only)
+[https://ik.imagekit.io/edwinb24/New_Social_Media_icons/facebook_light.svg](https://www.facebook.com/edwin.b24#gh-light-mode-only)
+[https://ik.imagekit.io/edwinb24/New_Social_Media_icons/facebook_light.svg)](https://www.facebook.com/edwin.b24#gh-dark-mode-only)
 &nbsp;&nbsp;
 [[imagecdn](./twitch_light_theme.png)](https://www.twitch.tv/edwin_b24#gh-light-mode-only)
 [[imagecdn](./twitch_dark_theme.png)](https://www.twitch.tv/edwin_b24#gh-dark-mode-only)
@@ -47,4 +47,4 @@
 <img align="left" alt="Terminal" width="26px" src="https://ik.imagekit.io/edwinb24/Others/285695_terminal_icon_0CbjEGtEZ.svg" style="padding-right:10px;"/>
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;"/>
 
-[imagecdn]: https://ik.imagekit.io/edwinb24/New_Social_Media_icons/
+[imagecdn]:
