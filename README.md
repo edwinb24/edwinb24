@@ -28,7 +28,7 @@ I had been develing software for the web for 8 years. When I’m not programming
 <a href="#" style="pointer-events: none;"><img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /></a>
 <a href="#" style="pointer-events: none;"><img align="left" alt="React Native" width="26px" src="https://ik.imagekit.io/edwinb24/Others/React_Native_Logo_Vector_kQyfn9XFt.svg" style="padding-right:10px;" /></a>
 <a href="#" style="pointer-events: none;"><img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" /></a>
-<a href="#" style="pointer-events: none;"><img align="left" alt="NextJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" style="padding-right:10px;" /></a>
+<a href="#" style="pointer-events: none;"><img align="left" alt="NextJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a>
 <a href="#" style="pointer-events: none;"><img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" /></a>
 <a href="#" style="pointer-events: none;"><img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"/></a>
 <a href="#" style="pointer-events: none;"><img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;"/></a>
