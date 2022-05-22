@@ -1,5 +1,8 @@
 ## Hi, I'm Edwin Broce. I'm a Web Developer from Panama 🏄‍♂️
-I had been develing software for the web for 8 years. When I’m not programming, I enjoy playing video games, D&D, doing improv, working out, and teaching my cat to do tricks 🐱‍🏍
+I moved to the US from Panama to pursue a career in coding. I love to share my passion with others and am always learning something new. My previous experiences have made me well versed as a Full-Stack Developer; I have done everything from SEO and cloud infrastructure to creating SPs in the back-end. I’m very passionate about UX design and love working on using HTML, CSS, and TS to create fast, secure, interactive UX experiences for users. My favorite stack to work with is JamStack (using NextJs) and my favorite aspect of programming is looking for unconventional, efficient, and creative solutions to problems.
+
+When I’m not programming, I enjoy playing video games and D&D, hiking, working out, and teaching my cat to do tricks (although he thinks he’s teaching ME to give him treats). Thanks for dropping by, and happy coding!
+ 🐱‍🏍
 
 ### Connect with me:
 [![Go to my website](/img/website_light_theme.png)](https://edwinbroce.com#gh-light-mode-only)
