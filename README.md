@@ -40,3 +40,9 @@ When I’m not programming, I enjoy playing video games and D&D, hiking, working
 <a href="#" style="pointer-events: none;"><img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10p;"/></a>
 <a href="#" style="pointer-events: none;"><img align="left" alt="Terminal" width="26px" src="https://ik.imagekit.io/edwinb24/Others/285695_terminal_icon_0CbjEGtEZ.svg" style="padding-right:10px;"/></a>
 <a href="#" style="pointer-events: none;"><img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;"/></a>
+
+---
+### Certificates:
+[![Go to my Certificates](/img/certificate_badges.png#gh-light-mode-only)](https://www.linkedin.com/in/edwin-broce#gh-light-mode-only)
+[![Go to my Certificates](/img/certificate_badges.png#gh-dark-mode-only)](https://www.linkedin.com/in/edwin-broce#gh-dark-mode-only)
+
