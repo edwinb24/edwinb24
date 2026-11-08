@@ -43,6 +43,4 @@ When I’m not programming, I enjoy playing video games and D&D, hiking, working
 
 ---
 ### Certificates:
-[![Go to my Certificates](/img/certificate_badges.png#gh-light-mode-only)](https://www.linkedin.com/in/edwin-broce#gh-light-mode-only)
-[![Go to my Certificates](/img/certificate_badges.png#gh-dark-mode-only)](https://www.linkedin.com/in/edwin-broce#gh-dark-mode-only)
-
+[![Go to my Certificates](/img/certificate_badges.png#gh-light-mode-only)](https://www.linkedin.com/in/edwin-broce)
