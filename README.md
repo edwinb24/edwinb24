@@ -28,6 +28,7 @@ When I’m not programming, I enjoy playing video games and D&D, hiking, working
 <a href="#" style="pointer-events: none;"><img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /></a>
 <a href="#" style="pointer-events: none;"><img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" /></a>
 <a href="#" style="pointer-events: none;"><img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /></a>
+<a href="#" style="pointer-events: none;"><img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" /></a>
 <a href="#" style="pointer-events: none;"><img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /></a>
 <a href="#" style="pointer-events: none;"><img align="left" alt="React Native" width="26px" src="https://ik.imagekit.io/edwinb24/Others/React_Native_Logo_Vector_kQyfn9XFt.svg" style="padding-right:10px;" /></a>
 <a href="#" style="pointer-events: none;"><img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" /></a>
@@ -40,7 +41,9 @@ When I’m not programming, I enjoy playing video games and D&D, hiking, working
 <a href="#" style="pointer-events: none;"><img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10p;"/></a>
 <a href="#" style="pointer-events: none;"><img align="left" alt="Terminal" width="26px" src="https://ik.imagekit.io/edwinb24/Others/285695_terminal_icon_0CbjEGtEZ.svg" style="padding-right:10px;"/></a>
 <a href="#" style="pointer-events: none;"><img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;"/></a>
+<br>
+<br>
 
 ---
 ### Certificates:
-[![Go to my Certificates](/img/certificate_badges.png#gh-light-mode-only)](https://www.linkedin.com/in/edwin-broce)
+<a href="#" style="pointer-events: none;"><img align="left" alt="Linux" width="320px" src="https://edwinbroce.com/wp-content/uploads/2026/11/certificate_badges.png" style="padding-right:10px;"/></a>
