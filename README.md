@@ -42,6 +42,5 @@ When I’m not programming, I enjoy playing video games and D&D, hiking, working
 <a href="#" style="pointer-events: none;"><img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;"/></a>
 
 ---
-
 ### Certificates:
 [![Go to my Certificates](/img/certificate_badges.png#gh-light-mode-only)](https://www.linkedin.com/in/edwin-broce)
