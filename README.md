@@ -40,6 +40,7 @@ When I’m not programming, I enjoy playing video games and D&D, hiking, working
 <a href="#" style="pointer-events: none;"><img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10p;"/></a>
 <a href="#" style="pointer-events: none;"><img align="left" alt="Terminal" width="26px" src="https://ik.imagekit.io/edwinb24/Others/285695_terminal_icon_0CbjEGtEZ.svg" style="padding-right:10px;"/></a>
 <a href="#" style="pointer-events: none;"><img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;"/></a>
+<a href="#" style="pointer-events: none;cursor: context-menu;"><img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;pointer-events: none;cursor: context-menu;" /></a>
 <br>
 <br>
 
